@@ -1,12 +1,14 @@
-# Django-REST-ReactJS 
+# ReactJS-Python-Django-REST-Mongo|SQL
 
-This is a repository that combines some first projects, tutorials, ways I learned to use the stack ReactJS - Pythaon Django REST Framework - MongoDB or SQLDB.
+This is a repository that combines some first projects, tutorials, ways I learned to use the stack ReactJS - Python Django REST Framework - MongoDB or SQLDB.
 
 Each folder corresponds to a different URL : 
   - **"tutorial"** : https://www.django-rest-framework.org/tutorial/quickstart/#testing-our-api
   <br/>*Simple administrator project to GET and POST infos*
+  <br/>**Stack** : Python-Django-REST Framework
   - **"django-react"** : https://www.valentinog.com/blog/drf/
   <br/>*Simple Leads administrator and minimalist viewing client*
+  <br/>**Stack** : ReactJS-Python-Django-REST Framework
 
 # Instructions for each project : 
   ## "tutorial"
